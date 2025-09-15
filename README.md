@@ -1,0 +1,1 @@
+# EntraID---AWS-SAML-STS-Credential-Manager
